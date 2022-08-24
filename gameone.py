@@ -1,4 +1,4 @@
-# Juego de adivinasas
+# Juego de adivinazas
 import random
 intento = 0 
 var = random.randint(1,10)
